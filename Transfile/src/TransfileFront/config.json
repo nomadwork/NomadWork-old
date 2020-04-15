@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "TransfileFront"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-TransfileFront-6bf3072d-fac2-4b0e-aaee-2d841b0b1765;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
